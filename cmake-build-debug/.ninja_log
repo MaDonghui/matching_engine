@@ -1,0 +1,5 @@
+# ninja log v5
+0	1595	1663727292557249607	CMakeFiles/matching_engine.dir/main.cpp.o	cc276452f615061e
+1728	1773	1663727292738806363	matching_engine	df3c476700a3bdb5
+0	1619	1663727292581640884	CMakeFiles/matching_engine.dir/src/clob.cpp.o	a6957d92aa289249
+1	1728	1663727292690133352	CMakeFiles/matching_engine.dir/src/matching_engine.cpp.o	799ff951c4a51c36
